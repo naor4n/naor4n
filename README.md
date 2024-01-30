@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a 21-year-old Information and Communications Technology student at the University of Turku.
 <!--
 **naor4n/naor4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
