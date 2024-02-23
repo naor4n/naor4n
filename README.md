@@ -3,7 +3,7 @@ I'm a 21-year-old Information and Communications Technology student at the Unive
 
 #### top  languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naor4n&layout=donut&theme=synthwave)](https://github.com/naor4n/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naor4n&layout=donut&theme=highcontrast)](https://github.com/naor4n/github-readme-stats)
 
 
 <!--
