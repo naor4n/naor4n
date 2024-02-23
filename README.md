@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm a 21-year-old Information and Communications Technology student at the University of Turku.
 
-#### top  languages
-
+#### My top  languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naor4n&layout=donut&theme=onedark)](https://github.com/naor4n/github-readme-stats)
 
